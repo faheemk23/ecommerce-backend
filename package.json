@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/faheemk23/ecommerce-backend.git",
+  "author": "faheem <faheemwork23@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
