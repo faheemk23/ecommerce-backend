@@ -6,9 +6,10 @@
   "author": "faheem <faheemwork23@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4"
   },
   "scripts": {
-    "start": "node index.cjs"
+    "start": "node --env-file=.env index.cjs"
   }
 }
